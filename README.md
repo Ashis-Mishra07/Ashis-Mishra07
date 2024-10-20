@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms , Video Conference Modelling and Rendering**
 
-- 🔭 I’m currently working on **WanderLust (personal project)**
+- 🔭 I’m currently working on **guiding aspiring software engineers (personal project)**
 
 - 💬 Ask me about **Java, JavaScript , Express ,React , Tailwind ...**
 

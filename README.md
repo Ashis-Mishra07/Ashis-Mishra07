@@ -10,32 +10,15 @@
 - 🛠 Skilled in **Java, JavaScript, Express, React, Tailwind**, and backend technologies, constantly exploring new advancements in software engineering.  
 
 ## 📫 How to Reach Me  
-- 📧 Email: **mishralucky074@gmail.com**   
+- 📧 Email: **mishralucky074@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/ashis-mishra**
+- 🌍 LeetCode: **https://leetcode.com/u/ASHIS_MISHRA/**
+- 🌍 CodeForces: **https://codeforces.com/profile/AshisMishra**
+- 🌍 CodeChef: **https://www.codechef.com/users/ashismishra**
+- 🌍 GeeksForGeeks: **https://www.geeksforgeeks.org/user/mishralucky/** 
 
 ## ⚡ Fun Fact  
 - I believe I’m funny—at least my compiler doesn’t complain! 😆  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashis-kumar-mishra" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://stackoverflow.com/users/22363861" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/ashis_mishra" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/mishralucky" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-</a>
-<a href="https://www.codechef.com/users/ashismishra" target="blank">
-  <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-codechef-a-competitive-programming-platform-that-hosts-competitions-logo-color-tal-revivo.png" alt="CodeChef" height="30" width="40" />
-</a>
-<a href="https://codeforces.com/profile/AshisMishra" target="blank">
-  <img align="center" src="https://sta.codeforces.com/s/78534/images/codeforces-sponsored-by-ton.png" alt="CodeForces" height="30" width="40" />
-</a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>

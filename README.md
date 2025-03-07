@@ -34,10 +34,3 @@
     </td>
   </tr>
 </table>
-
-
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=ashis-mishra07&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-

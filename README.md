@@ -34,3 +34,25 @@
     </td>
   </tr>
 </table>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashis-Mishra07&theme=github&hide_border=true&bg_color=ffffff&color=0366d6&line=4f81bd&point=24292e" />
+</div>
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashis-Mishra07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=3&row=2&column=4" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
+
